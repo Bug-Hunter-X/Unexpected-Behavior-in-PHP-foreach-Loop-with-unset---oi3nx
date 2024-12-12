@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in PHP when modifying an array during iteration with a foreach loop.  The example shows how using unset() inside a foreach loop can lead to unexpected behavior. The solution provides a more robust method to achieve the desired outcome.
